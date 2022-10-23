@@ -5,7 +5,7 @@
 
 **Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).**
 
-The biggest differenece between the frontend development and the SPA is that the SPA isn'g designed to change often, it has simple, fast, accessible features that are there to add business value and update the content seen on the front page. We do this using Angular, which is a framework specifically for this. The frontend aspect is done in express, which is a separate framework that is build on node.js and is extremely lightweight and lets us make dynamic content for the customer side. Both of the frameworks heavily rely on javascript. 
+The biggest difference between the frontend development and the SPA is that the SPA isn'g designed to change often, it has simple, fast, accessible features that are there to add business value and update the content seen on the front page. We do this using Angular, which is a framework specifically for this. The frontend aspect is done in express, which is a separate framework that is build on node.js and is extremely lightweight and lets us make dynamic content for the customer side. Both of the frameworks heavily rely on javascript. 
 
 **Why did the backend use a NoSQL MongoDB database?**
 
